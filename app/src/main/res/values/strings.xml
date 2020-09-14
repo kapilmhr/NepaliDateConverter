@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NepaliDatePickers</string>
+    <string name="highlight_dates">Highlight certain dates</string>
+    <string name="limit_dates">Limit selectable dates</string>
+    <string name="title_date">Show a title</string>
+    <string name="show_year_first">Show year picker first</string>
+    <string name="dismiss_date">Dismiss on pause (eg: orientaion change)</string>
+    <string name="mode_custom_accent">Use custom accent</string>
+    <string name="mode_dark_date">Use dark theme</string>
+    <string name="pick_date_button">Pick Date</string>
+    <string name="pick_time_button">Pick Time</string>
+    <string name="limit_date">Limit selectable dates</string>
+    <string name="dialog_version_two">Try new Version 2.0</string>
+    <string name="limit_past_date">Disable Past Dates</string>
+    <string name="limit_selectable_date">Limit selectable dates</string>
+    <string name="disable_selected_dates">Disable selected days</string>
+    <string name="dialog_highlight_days">Highlight Days</string>
+    <string name="dialog_switch_orientation">Scroll orientation</string>
+</resources>
